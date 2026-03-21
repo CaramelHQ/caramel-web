@@ -123,7 +123,7 @@ export default function LoginPage() {
                       duration: 2.8, 
                       times: [0, 0.050, 0.125, 0.15, 0.85, 0.875, 0.950, 1],
                       repeat: 0, 
-                      ease: "easeInOut" 
+                      ease: "easeOut" 
                     } : { duration: 0.2 }}
                   >
                     <LinkIcon size={24} weight="bold" className="text-[#d77655]" />
